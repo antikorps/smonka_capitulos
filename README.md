@@ -1,8 +1,8 @@
 # Smonka!
 El uso de este script únicamente debe utilizarse para el derecho a la copia privada. Cualquier otro uso es inadecuado y es bajo completa responsabilidad del usuario.
 ## Enlaces de descarga
-GNU/LInux amd64
-Windows amd64
+[GNU/LInux amd64](https://github.com/antikorps/smonka_capitulos/raw/main/bin/smonka_linux.zip "GNU/LInux amd64")
+[Windows amd64](https://github.com/antikorps/smonka_capitulos/raw/main/bin/smonka_windows.zip "Windows amd64")
 ## Lista de capítulos
 Los capítulos han sido nombrados de acuerdo a la web de PlutoTV y su número corresponde al orden en el que aparecen listados.
 Visita https://pluto.tv/es/on-demand/series/smonka-es/ para más detalles
